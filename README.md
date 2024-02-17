@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kian Jearard G. Naquines</h1>
-<h3 align="center">A passionate fullstack developer from Philippines.</h3>
+<h3 align="center">A passionate backend developer from the Philippines, I thrive on creating robust and scalable solutions that power the core functionality of web applications. With a keen eye for detail and a strong foundation in programming, I enjoy tackling complex challenges and implementing efficient, maintainable code to ensure seamless backend operations.</h3>
 
 <p align="left" style="margin-right: 5px;"> <img src="https://komarev.com/ghpvc/?username=kiannaquines&label=Profile%20views&color=0e75b6&style=monokai" alt="kiannaquines" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Akamai Frontend Utility for faster development](https://github.com/kiannaquines/akamai-django-admin)
+- 🔭 I’m currently working on [Akamai Backend Utility for faster development](https://github.com/kiannaquines/akamai-django-admin)
 
 - 🌱 I’m developing application using learning **Django, Flutter, Laravel, MERN Stack, and many more.**
 - 🌱 I’m developing cool application since I'm in Junior High School.
