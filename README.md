@@ -10,6 +10,8 @@
 - 🔭 I’m currently working on [Akamai Frontend Utility for faster development](https://github.com/kiannaquines/akamai-django-admin)
 
 - 🌱 I’m developing application using learning **Django, Flutter, Laravel, MERN Stack, and many more.**
+- 🌱 I’m developing cool application since I'm in Junior High School.
+- 🌱 I'm also participating in Cyber Challenges (Capture The Flag) Competetion.
 
 - 📫 How to reach me **kjgnaquines@gmail.com**
 
