@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kian Jearard G. Naquines</h1>
-<h3 align="justify">A passionate fullstack engineer from the Philippines, I thrive on creating robust and scalable solutions that power the core functionality of a software, with a keen eye for detail and a strong foundation in programming, I enjoy tackling complex challenges and implementing efficient, maintainable code to ensure seamless backend operations.</h3>
+<h3 align="justify">A passionate fullstack developer from the Philippines.</h3>
 
 <p align="left" style="margin-right: 5px;"> <img src="https://komarev.com/ghpvc/?username=kiannaquines&label=Profile%20views&color=0e75b6&style=monokai" alt="kiannaquines" /> </p>
 
