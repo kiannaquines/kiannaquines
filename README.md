@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Akamai Backend Utility for faster development](https://github.com/kiannaquines/akamai-django-admin)
 
-- 🌱 I’m developing application using learning **Django, Flutter, Laravel, MERN Stack, and many more.**
+- 🌱 I’m developing application using learning **Django, Flutter, Laravel, MERN Stack.
 - 🌱 I’m developing cool application since I'm in Junior High School.
 - 🌱 I'm also participating in Cyber Challenges (Capture The Flag) Competetion.
 
