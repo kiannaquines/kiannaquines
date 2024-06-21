@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kian Naquines and I'm a passionate fullstack developer, from Philippines.</p>
+<p align="left">My name is Kian Naquines and I'm a passionate fullstack developer, from Philippines</p>
 
 ###
 
