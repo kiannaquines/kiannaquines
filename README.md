@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning NextJS, TypeScript</p>
+<p align="left">✨ Developing software since 2018<br>📚 I'm currently learning NextJS, TypeScript</p>
 
 ###
 
