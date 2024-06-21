@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Developing software since 2018<br>📚 I'm currently learning NextJS, and TypeScript a new framework to develop software</p>
+<p align="left">✨ Developing software since 2018<br>📚 I'm currently learning NextJS, and TypeScript a new framework for developing scalable & robust software. <br>📚 I'm currently undertaking my undergraduate Capstone and as a final project I am working on <a href="https://github.com/kiannaquines/crowd-monitoring-app">Crowd Monitoring System based on Artificial Intelligence</a>.</p>
 
 ###
 
