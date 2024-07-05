@@ -1,5 +1,5 @@
 <div style="text-align: center">
-<iframe src="https://giphy.com/embed/JKo6P5QyuFkuhLlfVq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/chibi-somuchwork-working-JKo6P5QyuFkuhLlfVq">via GIPHY</a></p>
+<img src="https://giphy.com/embed/JKo6P5QyuFkuhLlfVq">
 </div>
 
 <h1 align="left">Hey 👋 What's up?</h1>
