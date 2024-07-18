@@ -2,8 +2,12 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg5dzAwaWJqcjU0ZzcxcnFncGh2cXl4NWJ6NjB2ejQ3cGloNWg5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JKo6P5QyuFkuhLlfVq/giphy.webp" width="200">
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Github-dark?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.linkedin.com/in/kian-jearard-naquines-7406772a8/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/kiannaquines/">
+     <img src="https://img.shields.io/badge/Github-dark?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
 </div>
 
 </div>
@@ -13,7 +17,7 @@
 
 ###
 
-<p align="left">My name is Kian Jearard G. Naquines and I'm a passionate fullstack developer, from Philippines.</p>
+<p align="left">My name is Kian Jearard G. Naquines, and I'm a passionate full-stack developer, from the Philippines.</p>
 
 ###
 
@@ -23,7 +27,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Developing software since 2018<br>📚 I'm currently learning NextJS, and TypeScript a new framework for developing scalable & robust software. <br>📚 I'm currently undertaking my undergraduate Capstone and as a final project I am working on <a href="https://github.com/kiannaquines/crowd-monitoring-app">Crowd Monitoring System based on Artificial Intelligence</a>.</p>
+<p align="left">✨ Developing software since 2018<br>📚 I'm currently learning NextJS and TypeScript, a new framework for developing scalable & robust software. <br>📚 I'm currently undertaking my undergraduate Capstone, and as a final project, I am working on <a href="https://github.com/kiannaquines/crowd-monitoring-app">Crowd Monitoring System based on Artificial Intelligence</a>.</p>
 
 ###
 
