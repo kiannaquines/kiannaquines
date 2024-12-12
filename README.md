@@ -16,15 +16,15 @@
 
 ### 
 
-<p align="left">My name is Kian Jearard G. Naquines, and I'm a passionate **full-stack developer** from the Philippines. I'm deeply committed to creating innovative and impactful software solutions to solve real-world problems. I'm continuously learning new technologies to keep improving my skills and stay ahead in the ever-evolving tech landscape.</p>
+<p align="left">My name is Kian Jearard G. Naquines, and I'm a passionate full-stack developer from the Philippines. I'm deeply committed to creating innovative and impactful software solutions to solve real-world problems. I'm continuously learning new technologies to keep improving my skills and stay ahead in the ever-evolving tech landscape.</p>
 
 ### 
 
 <h2 align="left">About Me</h2>
 
-<p align="left">✨ I've been developing software since 2018 and have gained hands-on experience in a wide variety of technologies. I am currently learning **NextJS** and **TypeScript**, both of which I believe are crucial for developing scalable and robust web applications. In addition to my academic journey, I'm working on my undergraduate **Capstone Project**, where I’m developing a **Crowd Monitoring System with Artificial Intelligence**, which you can explore on my GitHub.</p>
+<p align="left">✨ I've been developing software since 2018 and have gained hands-on experience in a wide variety of technologies. I'm working on my undergraduate Capstone Project, where I’m developing a Crowd Monitoring System with Artificial Intelligence, developed using NextJS, ReactJS, Python, FastAPI, JWT Authentication.</p>
 
-<p align="left">My passion for technology drives me to always be innovative and solve complex problems through code. As a student pursuing a **Bachelor of Science in Information Systems**, I aim to combine my knowledge of software development with a strong understanding of system design and business processes.</p>
+<p align="left">My passion for technology drives me to always be innovative and solve complex problems through code. I aim to combine my knowledge of software development with a strong understanding of system design and business processes.</p>
 
 ### 
 
