@@ -22,7 +22,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">✨ I've been developing software since 2018 and have gained hands-on experience in a wide variety of technologies. I'm working on my undergraduate Capstone Project, where I’m developing a <a href="https://github.com/kiannaquines/crowd-monitoring-app">Crowd Monitoring System with Artificial Intelligence</a>, developed dashboard using NextJS, ReactJS, Python, FastAPI, JWT Authentication, and RESTAPI.</p>
+<p align="left">✨ I've been developing software since 2018 and have gained hands-on experience in a wide variety of technologies. I'm working on my undergraduate Capstone Project, where I’m developing a <a href="https://github.com/kiannaquines/crowd-monitoring-app">Crowd Monitoring System with Artificial Intelligence</a>, developed dashboard using <b>NextJS</b>, <b>ReactJS</b>, <b>Python</b>, <b>FastAPI</b>, <b>JWT Authentication</b>, and <b>RESTAPI</b>.</p>
 
 <p align="left">My passion for technology drives me to always be innovative and solve complex problems through code. I aim to combine my knowledge of software development with a strong understanding of system design and business processes.</p>
 
