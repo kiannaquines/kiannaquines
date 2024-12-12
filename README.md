@@ -16,7 +16,7 @@
 
 ### 
 
-<p align="left">My name is Kian Jearard G. Naquines, and I'm a passionate full-stack developer from the Philippines. I'm deeply committed to creating innovative and impactful software solutions to solve real-world problems. I'm continuously learning new technologies to keep improving my skills and stay ahead in the ever-evolving tech landscape.</p>
+<p align="left">My name is <b>Kian Jearard G. Naquines</b>, and I'm a passionate full-stack developer from the Philippines. I'm deeply committed to creating innovative and impactful software solutions to solve real-world problems. I'm continuously learning new technologies to keep improving my skills and stay ahead in the ever-evolving tech landscape.</p>
 
 ### 
 
