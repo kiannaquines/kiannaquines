@@ -1,8 +1,10 @@
+ <img src="https://private-user-images.githubusercontent.com/88887528/402283284-0b61e8f4-d0e7-4969-897a-ac98dce2acdb.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY5OTg2NzksIm5iZiI6MTczNjk5ODM3OSwicGF0aCI6Ii84ODg4NzUyOC80MDIyODMyODQtMGI2MWU4ZjQtZDBlNy00OTY5LTg5N2EtYWM5OGRjZTJhY2RiLlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE2VDAzMzI1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmYTlmOThkN2RjOGE1MmJlNGI1ZjAwMjM1ZjIyZmFkMWExMzdhZTA4MmY4ZWYxZGZiNmQ5NGJmNDY1MTZhMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pxUOMIS1rp6XWmwGrjff-H-dcgNxtNyiJuYxH6M6HAA" width="100%">
+
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg5dzAwaWJqcjU0ZzcxcnFncGh2cXl4NWJ6NjB2ejQ3cGloNWg5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JKo6P5QyuFkuhLlfVq/giphy.webp" width="200">
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/kian-jearard-naquines-7406772a8/">
+    <a href="https://www.linkedin.com/in/kjgnaquines">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/kiannaquines/">
