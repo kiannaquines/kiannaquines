@@ -1,29 +1,35 @@
 <img src="https://private-user-images.githubusercontent.com/88887528/402283284-0b61e8f4-d0e7-4969-897a-ac98dce2acdb.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY5OTg2NzksIm5iZiI6MTczNjk5ODM3OSwicGF0aCI6Ii84ODg4NzUyOC80MDIyODMyODQtMGI2MWU4ZjQtZDBlNy00OTY5LTg5N2EtYWM5OGRjZTJhY2RiLlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE2VDAzMzI1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmYTlmOThkN2RjOGE1MmJlNGI1ZjAwMjM1ZjIyZmFkMWExMzdhZTA4MmY4ZWYxZGZiNmQ5NGJmNDY1MTZhMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pxUOMIS1rp6XWmwGrjff-H-dcgNxtNyiJuYxH6M6HAA" width="100%" style="border-radius: 5px;">
 
 <div id="header" align="left">
-    <a href="https://www.linkedin.com/in/kjgnaquines">
+    <a href="https://www.linkedin.com/in/kjgnaquines" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/kiannaquines/">
+    <a href="https://github.com/kiannaquines/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
-    <a href="https://github.com/kiannaquines/">
+    <a href="#" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars"/>
     </a>
-    <a href="https://github.com/kiannaquines/">
+    <a href="#" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily dot Dev"/>
     </a>
-    <a href="https://github.com/kiannaquines/">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Daily dot Dev"/>
+    <a href="#" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://github.com/kiannaquines/">
-      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Daily dot Dev"/>
+    <a href="#" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heruko"/>
     </a>
-    <a href="https://github.com/kiannaquines/">
-      <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="Daily dot Dev"/>
+    <a href="#" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean"/>
     </a>
-    <a href="https://github.com/kiannaquines/">
-      <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" alt="Daily dot Dev"/>
+    <a href="#" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" alt="Linode"/>
+    </a>
+    <a href="#" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+    </a>
+    <a href="#" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="ChatGPT"/>
     </a>
 </div>
 
