@@ -31,6 +31,9 @@
     <a href="#" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="ChatGPT"/>
     </a>
+    <a href="#" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+    </a>
 </div>
 
 <h1 align="left">Hey 👋 What's up?</h1>
