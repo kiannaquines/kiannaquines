@@ -19,6 +19,12 @@
     <a href="https://github.com/kiannaquines/">
       <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Daily dot Dev"/>
     </a>
+    <a href="https://github.com/kiannaquines/">
+      <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="Daily dot Dev"/>
+    </a>
+    <a href="https://github.com/kiannaquines/">
+      <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" alt="Daily dot Dev"/>
+    </a>
 </div>
 
 <h1 align="left">Hey 👋 What's up?</h1>
