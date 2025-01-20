@@ -113,7 +113,7 @@
 
 ### 
 
-<h2 align="left">I Code With</h2>
+<h2 align="left">My Technology Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
