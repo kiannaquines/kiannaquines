@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/6637e302-f0f7-4d50-b98c-bfc603ed3dcb)
 
 <div id="header" align="left">
-    <h1 align="left">My Tools and Platform for Productivity</h1>
+    <h1 align="left">Tools and Platform for Productivity</h1>
     <a href="https://www.linkedin.com/in/kjgnaquines" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
