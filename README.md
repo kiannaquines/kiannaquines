@@ -96,7 +96,7 @@
 </a>
 </div>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">What's up? 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiannaquines&label=Profile%20views&color=0e75b6&style=flat" alt="kiannaquines" /> </p>
 
 ### 
