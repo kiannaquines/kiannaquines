@@ -110,7 +110,7 @@
 <p align="left">✨ I've been developing software since 2018 and have gained hands-on experience in a wide variety of technologies. I'm working on my undergraduate Capstone Project, where I’m developing a <a href="https://github.com/kiannaquines/crowd-monitoring-app">Crowd Monitoring System with Artificial Intelligence using DBSCAN Algorithm</a> that detect the presence of visitors using ubiquitous computing, developed dashboard using <b>NextJS</b>, <b>ReactJS</b>, <b>Python</b>, <b>FastAPI</b>, <b>JWT Authentication</b>, <b>RESTAPI</b>, <b>Mobile Application (Flutter & Dart)</b>, and <b>Embedded Computing with Go Lang & Raspberry Pi</b> for good performance.</p>
 
 <p align="left">My passion for technology drives me to always be innovative and solve complex problems through code. I aim to combine my knowledge of software development with a strong understanding of system design and business processes.</p>
-
+<p align="left">Now as I finished my Capstone Project I'm developing a Web Application Firewall with Machine Learning <a href="https://github.com/kiannaquines/">Web Application Firewall with Artificial Intelligence</a></p>
 ### 
 
 <h2 align="left">Technologies</h2>
