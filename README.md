@@ -229,4 +229,4 @@
 </div>
 
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiannaquines" alt="kiannaquines"></a></p>
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=kiannaquines&amp;show_icons=true&amp;locale=en" alt="kiannaquines">
