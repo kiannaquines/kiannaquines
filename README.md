@@ -232,4 +232,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kiannaquines&amp;show_icons=true&amp;locale=en" alt="kiannaquines">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kiannaquines&amp;" alt="kiannaquines">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiannaquines&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="kiannaquines">
+<img align="left" style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiannaquines&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="kiannaquines">
