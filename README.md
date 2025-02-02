@@ -230,8 +230,13 @@
 
 <h1 align="left">Github Stats</h1>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kiannaquines&amp;show_icons=true&amp;locale=en" alt="kiannaquines">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kiannaquines&amp;" alt="kiannaquines">
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=kiannaquines&amp;show_icons=true&amp;locale=en" alt="kiannaquines">
+</p>
+
+<p>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kiannaquines&amp;" alt="kiannaquines">
+</p>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiannaquines&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="kiannaquines">
