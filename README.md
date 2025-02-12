@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/6637e302-f0f7-4d50-b98c-bfc603ed3dcb)
+![Image](https://github.com/user-attachments/assets/3192bea8-e0f2-4e56-ad7a-4e072fc4c1d2)
 <div id="header" align="left">
     <h1 align="left">Tools and Platforms for Productivity</h1>
     <a href="https://www.linkedin.com/in/kjgnaquines" style="text-decoration: none;">
