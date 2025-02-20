@@ -111,7 +111,7 @@
 <p align="left">My passion for technology drives me to always be innovative and solve complex problems through code. I aim to combine my knowledge of software development with a strong understanding of system design and business processes.</p>
 <p align="left">Now as I finished my Capstone Project I'm developing a Web Application Firewall with Machine Learning <a href="https://github.com/kiannaquines/web-application-firewall-machine-learning">Web Application Firewall with Artificial Intelligence</a></p>
 
-<h2 align="left">Technologies I mostly used as a Software Developer/AI Enthusiast</h2>
+<h2 align="left">Technologies</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
