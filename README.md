@@ -227,7 +227,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-<h1 align="left">Github Stats</h1>
+<h1 align="left">Stats</h1>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=kiannaquines&amp;show_icons=true&amp;locale=en" alt="kiannaquines">
