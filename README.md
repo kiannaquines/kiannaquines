@@ -1,4 +1,5 @@
-![Image](https://github.com/user-attachments/assets/3192bea8-e0f2-4e56-ad7a-4e072fc4c1d2)
+![image](https://github.com/user-attachments/assets/55f3ae1f-1b62-424b-a1bf-54a852eeec98)
+
 <div id="header" align="left">
     <h1 align="left">Tool and Platform</h1>
     <a href="https://www.linkedin.com/in/kjgnaquines" style="text-decoration: none;">
