@@ -1,5 +1,4 @@
 ![image](https://github.com/user-attachments/assets/6bf85430-4ff4-4620-8f68-0ab6864e1085)
-<p> <b>Visit my portfolio:</b> https://kian-portfolio-psi.vercel.app/</p>
 <div id="header" align="left">
     <h1 align="left">Tools</h1>
     <a href="https://www.linkedin.com/in/kjgnaquines" style="text-decoration: none;">
