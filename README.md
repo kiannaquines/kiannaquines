@@ -100,7 +100,7 @@
 
 ### 
 
-<p align="left">My name is <b>Kian Jearard G. Naquines</b>, and I'm a AI enthusiast and full-stack developer. I'm deeply committed to creating innovative and impactful software solutions to solve real-world problems. I'm continuously learning new technologies to keep improving my skills and stay ahead in the ever-evolving tech landscape.</p>
+<p align="left">I'm Kian Jearard G. Naquines, an AI enthusiast and full-stack developer dedicated to building innovative software solutions. I continuously learn new technologies to enhance my skills and stay current in the tech industry.</p>
 
 ### 
 
