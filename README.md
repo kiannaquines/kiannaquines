@@ -100,6 +100,18 @@
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   </a>
+  <a href="#" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm"/>
+</a>
+<a href="#" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+</a>
+<a href="#" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+</a>
+<a href="#" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal"/>
+</a>
 
   <!-- 🧪 Virtualization -->
   <h3>🧪 Virtualization</h3>
