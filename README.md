@@ -25,6 +25,12 @@
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 
   <!-- ☁️ Cloud & Deployment -->
   <h3>☁️ Cloud & Deployment</h3>
