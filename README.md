@@ -1,74 +1,114 @@
 ![image](https://github.com/user-attachments/assets/6bf85430-4ff4-4620-8f68-0ab6864e1085)
 <div id="header" align="left">
-  <h1>My Productivity Tools</h1>
+  <h1 align="left">My Productivity Tools</h1>
 
-  <!-- Socials -->
-  <a href="https://www.linkedin.com/in/kjgnaquines">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- 🌐 Professional Links -->
+  <h3>🌐 Professional Links</h3>
+  <a href="https://www.linkedin.com/in/kjgnaquines" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/kiannaquines/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://github.com/kiannaquines/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
 
-  <!-- Coding Platforms -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars" />
+  <!-- ⚙️ Competitive Coding & Dev Platforms -->
+  <h3>⚙️ Competitive Coding & Dev Platforms</h3>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily Dev" />
-  </a>
-
-  <!-- Cloud & Hosting -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" alt="Linode" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily dot Dev"/>
   </a>
 
-  <!-- AI Tools -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LangChain-FF6F61?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <!-- 💬 Communication -->
+  <h3>💬 Communication</h3>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <!-- Operating Systems -->
-  <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /></a>
+  <!-- ☁️ Cloud & Deployment -->
+  <h3>☁️ Cloud & Deployment</h3>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" alt="Linode"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  </a>
 
-  <!-- Dev Tools -->
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a>
+  <!-- 🧠 AI & Tools -->
+  <h3>🧠 AI & Tools</h3>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LangChain-FF6F61?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  </a>
 
-  <!-- Shells / Terminals -->
-  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
+  <!-- 📋 Productivity Tools -->
+  <h3>📋 Productivity Tools</h3>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
 
-  <!-- Virtualization -->
-  <a href="#"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" /></a>
+  <!-- 🖥️ Operating Systems -->
+  <h3>🖥️ Operating Systems</h3>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  </a>
 
-  <!-- Other Tools -->
-  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave Browser" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+  <!-- 🛠️ Developer Tools -->
+  <h3>🛠️ Developer Tools</h3>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  </a>
+
+  <!-- 🧪 Virtualization -->
+  <h3>🧪 Virtualization</h3>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+  </a>
+
+  <!-- 🌐 Browsers -->
+  <h3>🌐 Browsers</h3>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave"/>
+  </a>
 </div>
 
 
