@@ -66,7 +66,7 @@
   </a>
 
   <!-- 🖥️ Operating Systems -->
-  <h3>🖥️ Operating Systems</h3>
+  <h3>🖥️ Operating System</h3>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
   </a>
