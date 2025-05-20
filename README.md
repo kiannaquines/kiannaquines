@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
 
-  <!-- ⚙️ Competitive Coding & Dev Platforms -->
   <h3>⚙️ Competitive Coding & Dev Platforms</h3>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars"/>
@@ -31,7 +30,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
-  <!-- ☁️ Cloud & Deployment -->
   <h3>☁️ Cloud & Deployment</h3>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
@@ -46,7 +44,6 @@
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   </a>
 
-  <!-- 🧠 AI & Tools -->
   <h3>🧠 AI & Tools</h3>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
@@ -58,13 +55,11 @@
     <img src="https://img.shields.io/badge/LangChain-FF6F61?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   </a>
 
-  <!-- 📋 Productivity Tools -->
   <h3>📋 Productivity Tools</h3>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
 
-  <!-- 🖥️ Operating Systems -->
   <h3>🖥️ Operating System</h3>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
@@ -79,7 +74,6 @@
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
   </a>
 
-  <!-- 🛠️ Developer Tools -->
   <h3>🛠️ Developer Tools</h3>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
