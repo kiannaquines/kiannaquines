@@ -2,7 +2,6 @@
 <div id="header" align="left">
   <h1 align="left">Productivity Tools</h1>
 
-  <!-- 🌐 Professional Links -->
   <h3>🌐 Professional Links</h3>
   <a href="https://www.linkedin.com/in/kjgnaquines" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
