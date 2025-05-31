@@ -10,6 +10,7 @@ An **AI enthusiast** and **Full-Stack Developer** passionate about building smar
 
 ### 📬 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://kian-portfolio-psi.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjgnaquines)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiannaquines)
 
