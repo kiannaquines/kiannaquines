@@ -17,7 +17,13 @@ An **AI enthusiast** and **Full-Stack Developer** passionate about building smar
 
 ### ⚙️ Developer Platforms & Tools
 
-*(unchanged from previous version)*
+- 💡 Languages: Python, JavaScript, TypeScript, Java, Go, SQL
+- 🧪 Libraries: SciPy, Pandas, NumPy, PyTorch, Matplotlib, Scikit-Learn
+- ⚙️ Backend: FastAPI, Spring Boot, Flask, Laravel, Node.js, Express.js
+- 🎨 Frontend: React, Next.js, Redux, Tailwind CSS, Bootstrap, HTML/CSS
+- 🧱 DBs: PostgreSQL, MySQL, MongoDB, Supabase, Redis, SQLite
+- 🧰 Tools: Git, Docker, Postman, Figma, Android Studio, VS Code, IntelliJ
+- 🔐 Auth: JWT, OAuth2, Basic Auth
 
 ---
 
@@ -29,13 +35,13 @@ An **AI enthusiast** and **Full-Stack Developer** passionate about building smar
   - Developed a dashboard using **Next.js**, **React**, **Python (FastAPI)**  
   - Embedded system with **GoLang & Raspberry Pi**  
   - Used **Flutter/Dart** for the mobile application  
-  - Features include JWT authentication, RESTful APIs, and real-time crowd detection.
-  - 🔗 [Project Repository](https://github.com/kiannaquines/crowd-monitoring-app)
+  - Features include JWT authentication, RESTful APIs, and real-time crowd detection.  
+  🔗 [Project Repository](https://github.com/kiannaquines/crowd-monitoring-app)
 
 - 🔬 I’m now developing an intelligent security system:  
   **Web Application Firewall with Machine Learning**  
-  - Uses AI models to detect and prevent malicious web traffic.  
-  - 🔗 [WAF with AI](https://github.com/kiannaquines/web-application-firewall-machine-learning)
+  - Uses AI models to detect and prevent malicious web traffic  
+  🔗 [WAF with AI](https://github.com/kiannaquines/web-application-firewall-machine-learning)
 
 ---
 
