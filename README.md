@@ -3,8 +3,8 @@
 ![Header](https://github.com/user-attachments/assets/6bf85430-4ff4-4620-8f68-0ab6864e1085)
 
 # 👋 Hi, I'm Kian Jearard G. Naquines
-
-An **AI enthusiast** and **Full-Stack Developer** passionate about building smart, scalable, and impactful software solutions. I continuously learn and experiment with new technologies to stay current and solve real-world problems creatively.
+An **AI enthusiast** and **Full-Stack Developer** that builds smart, scalable, and impactful software solutions. 
+I **shipped code every day** and **continuously learn** and **experiment** with new technologies to stay current and solve real-world problems creatively.
 
 ---
 
