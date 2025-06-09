@@ -59,7 +59,7 @@ I **shipped code every day** and **continuously learn** and **experiment** with 
 ### 🧪 Tech Stack Highlights
 
 #### 🐍 Python & Data Science  
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
