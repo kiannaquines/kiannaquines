@@ -10,7 +10,7 @@ I **shipped code every day** and **continuously learn** and **experiment** with 
 
 ### 📬 Connect With Me
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <a href="https://kian-portfolio-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
