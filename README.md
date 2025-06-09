@@ -10,7 +10,7 @@ I **shipped code every day** and **continuously learn** and **experiment** with 
 
 ### 📬 Connect With Me
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <a href="https://kian-portfolio-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -20,7 +20,7 @@ I **shipped code every day** and **continuously learn** and **experiment** with 
   <a href="https://github.com/kiannaquines" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
 
 ---
 
