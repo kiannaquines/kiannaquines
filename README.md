@@ -51,6 +51,10 @@ I **shipped code every day** and **continuously learn** and **experiment** with 
   **Web Application Firewall with Machine Learning**  
   - Uses AI models to detect and prevent malicious web traffic  
   🔗 [WAF with AI](https://github.com/kiannaquines/web-application-firewall-machine-learning)
+  
+  **Web Application Firewall with Machine Learning**  
+  - One of my the best impactful software I built was Feed Formulation using Linear Programming 
+  🔗 [Feed Formulation using LP]()
 
 - 🔬 I have developed many software projects. You can browse my publicly available repositories for inspiration.
   Just open-source your projects to help and give back to the community that supports you throughout your career.
