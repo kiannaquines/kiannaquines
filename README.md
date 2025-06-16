@@ -38,26 +38,29 @@ I **shipped code every day** and **continuously learn** and **experiment** with 
 
 ### 👨‍💻 About Me
 
-- 🧠 I’ve been building software since **2018**.
+- 🧠 I’ve been building software since **2018**, specializing in full-stack development, embedded systems, and AI-powered solutions.
+
 - 📘 I recently completed my **Capstone Project**:  
   **Crowd Monitoring System with AI using DBSCAN**  
-  - Developed a dashboard using **Next.js**, **React**, **Python (FastAPI)**  
-  - Embedded system with **GoLang & Raspberry Pi**  
-  - Used **Flutter/Dart** for the mobile application  
-  - Features include JWT authentication, RESTful APIs, and real-time crowd detection.  
-  🔗 [Project Repository](https://github.com/kiannaquines/crowd-monitoring-app)
+  - Built a responsive dashboard using **Next.js**, **React**, and **Python (FastAPI)**  
+  - Integrated an embedded system using **GoLang** and **Raspberry Pi**  
+  - Developed the mobile application using **Flutter/Dart**  
+  - Key Features: **JWT authentication**, **RESTful APIs**, and **real-time crowd detection**  
+  🔗 [View Project Repository](https://github.com/kiannaquines/crowd-monitoring-app)
 
-- 🔬 I’m now developing an intelligent security system:  
+- 🔬 I’m currently working on an intelligent security system:  
   **Web Application Firewall with Machine Learning**  
-  - Uses AI models to detect and prevent malicious web traffic  
+  - Uses AI models to detect and block malicious web traffic  
   🔗 [WAF with AI](https://github.com/kiannaquines/web-application-firewall-machine-learning)
-  
-  **Web Application Firewall with Machine Learning**  
-  - One of my the best impactful software I built was Feed Formulation using Linear Programming 
-  🔗 [Feed Formulation using LP]()
 
-- 🔬 I have developed many software projects. You can browse my publicly available repositories for inspiration.
-  Just open-source your projects to help and give back to the community that supports you throughout your career.
+- 🧮 One of my most impactful projects:  
+  **Feed Formulation Using Linear Programming**  
+  - Solves complex animal feed composition problems by optimizing cost while meeting nutritional constraints  
+  🔗 [Feed Formulation using LP](#) <!-- Replace # with actual link when ready -->
+
+- 🚀 I’ve built numerous software projects across different domains.  
+  Feel free to explore my repositories for inspiration — and contribute to the open-source community that continues to shape us all.
+
 ---
 
 ### 🧪 Tech Stack Highlights
