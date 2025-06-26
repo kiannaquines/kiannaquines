@@ -32,7 +32,7 @@ I **shipped code every day** and **continuously learn** and **experiment** with 
 - 🎨 Frontend: React, Next.js, Redux, Tailwind CSS, Bootstrap, HTML/CSS
 - 🧱 DBs: PostgreSQL, MySQL, MongoDB, Supabase, Redis, SQLite
 - 🧰 Tools: Git, Docker, Postman, Figma, Android Studio, VS Code, IntelliJ
-- 🔐 Auth: JWT, OAuth2, Basic Auth
+- 🔐 Auth: JWT, OAuth2, Basic Auth, Session Based Authentication
 
 ---
 
