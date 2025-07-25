@@ -9,7 +9,6 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
 ---
 
 ### 📬 Connect With Me
-
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <a href="https://kian-portfolio-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -21,11 +20,9 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
 ---
 
 ### ⚙️ Developer Platforms & Tools
-
 - 💡 Languages: Python, JavaScript, TypeScript, Java, Go, SQL, PHP, Dart, 
 - 🧪 Libraries: SciPy, Pandas, NumPy, PyTorch, Matplotlib, Scikit-Learn
 - ⚙️ Backend: FastAPI, Spring Boot, Flask, Laravel, Node.js, Express.js
