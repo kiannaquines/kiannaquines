@@ -123,5 +123,4 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kiannaquines&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 </div>
