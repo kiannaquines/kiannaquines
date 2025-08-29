@@ -54,7 +54,6 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
 - 🚀 I’ve built numerous software projects across different domains.  
   Feel free to explore my repositories for inspiration — and contribute to the open-source community that continues to shape us all.
 
----
 
 ### 🧪 Tech Stack Highlights
 
