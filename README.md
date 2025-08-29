@@ -28,7 +28,6 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
 - 🧰 Tools: Git, Docker, Postman, Figma, Android Studio, VS Code, IntelliJ
 - 🔐 Auth: JWT, OAuth2, Basic Auth, Session Based Authentication
 
----
 
 ### 👨‍💻 About Me
 
