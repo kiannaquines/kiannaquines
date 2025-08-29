@@ -18,7 +18,6 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
----
 
 ### ⚙️ Developer Platform and Tools 
 - 💡 Languages: Python, JavaScript, TypeScript, Java, Go, SQL, PHP, Dart, 
