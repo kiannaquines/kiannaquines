@@ -1,8 +1,5 @@
 <div align="left">
 
-
-
-
 ![Header](https://github.com/user-attachments/assets/6bf85430-4ff4-4620-8f68-0ab6864e1085)
 
 # 👋 Hello!, I'm Kian Jearard G. Naquines
