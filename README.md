@@ -4,7 +4,7 @@
 
 # 👋 Hello!, I'm Kian Jearard G. Naquines
 An **AI enthusiast** and **Full-Stack Software Developer** that builds smart, scalable, and impactful software solutions.
-I **shipped code every day** and **continuously learning** and **experiment** with new technologies to stay current and solve real-world problems creatively....
+I **shipped code every day** and **continuously learning** and **experiment** with new technologies to stay current and solve real-world problems creatively...
 
 ### 📬 Connect With Me
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
