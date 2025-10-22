@@ -60,6 +60,7 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
 #### 🐍 Python & Data Science  
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-336791?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
@@ -69,6 +70,7 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </div>
+
 
 #### 🟨 JavaScript & Frameworks  
 <div align="left">
