@@ -8,9 +8,6 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
 
 ### 📬 Connect With Me
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-  <a href="https://kian-portfolio-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/kjgnaquines" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
