@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img width="1438" height="767" alt="Screenshot 2026-03-30 at 4 42 53 AM" src="https://github.com/user-attachments/assets/a3beae38-5428-43d0-9f93-92f66900a072" />
+<img width="1009" height="380" alt="Screenshot 2026-03-30 at 4 44 22 AM" src="https://github.com/user-attachments/assets/a8c96e79-c08e-4597-8891-1dd4925671b3" />
 
  
 # 👋 Hello!, I'm Kian Jearard G. Naquines
@@ -18,7 +18,8 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
 </div>
 
 ### ⚙️ Developer Platform and Tools 
-- 💡 Languages: Python, JavaScript, TypeScript, Java, Go, SQL, PHP, Dart, 
+- 💡 Languages: Python, JavaScript, TypeScript, Java, Go, SQL, PHP, Dart, <img width="1006" height="383" alt="Screenshot 2026-03-30 at 4 44 05 AM" src="https://github.com/user-attachments/assets/f7f05498-554d-4fae-b6fa-5e3801f4d5c8" />
+
 - 🧪 Libraries: SciPy, Pandas, NumPy, PyTorch, Matplotlib, Scikit-Learn
 - ⚙️ Backend: FastAPI, Spring Boot, Flask, Laravel, Node.js, Express.js
 - 🎨 Frontend: React, Next.js, Redux, Tailwind CSS, Bootstrap, HTML/CSS
