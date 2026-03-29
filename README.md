@@ -1,6 +1,7 @@
 <div align="left">
-  
-![Header](https://github.com/user-attachments/assets/6bf85430-4ff4-4620-8f68-0ab6864e1085)
+
+  <img width="1438" height="767" alt="Screenshot 2026-03-30 at 4 42 53 AM" src="https://github.com/user-attachments/assets/a3beae38-5428-43d0-9f93-92f66900a072" />
+
  
 # 👋 Hello!, I'm Kian Jearard G. Naquines
 An **AI enthusiast** and **Full-Stack Software Developer** that builds smart, scalable, and impactful software solutions..
