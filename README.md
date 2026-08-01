@@ -18,7 +18,7 @@ I **shipped code every day** and **continuously learning** and **experiment** wi
 </div>
 
 ### ⚙️ Developer Platform and Tools 
-- 💡 Languages: Python, JavaScript, TypeScript, Java, Go, SQL, PHP, Dart
+- 💡 Languages: Python, JavaScript, TypeScript, Java, Go, SQL, PHP, Dart, C#, , .Net
 - 🧪 Libraries: SciPy, Pandas, NumPy, PyTorch, Matplotlib, Scikit-Learn
 - ⚙️ Backend: FastAPI, Spring Boot, Flask, Laravel, Node.js, Express.js
 - 🎨 Frontend: React, Next.js, Redux, Tailwind CSS, Bootstrap, HTML/CSS
